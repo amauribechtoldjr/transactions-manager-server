@@ -1,4 +1,4 @@
-### transactions-manager
+# Transactions Manager Server
 
 This repositorie is the server to the Transacion Manager application:
 https://github.com/amauribechtoldjr/transactions-manager-client
