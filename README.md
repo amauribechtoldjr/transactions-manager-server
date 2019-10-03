@@ -40,7 +40,19 @@ With everything configured you need to run:
   yarn dev
 ```
 
+## Contributing
+
+Please read [CONTRIBUTING.md](https://github.com/amauribechtoldjr/transactions-manager-server/blob/master/CONTRIBUTING.md) for details of our process for submitting pull requests to us.
+
+## Authors
+
+- **Amauri Bechtold Junior** - _Initial work_ - [Amauri Bechtold Junior](https://github.com/amauribechtoldjr/)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/amauribechtoldjr/transactions-manager-server/blob/master/LICENSE) file for details.
+
 ## FAQ
 
-Please, send me any question that you have about the project.
+Please, send me any question that you have about the project.  
 E-mail: amauribechtoldjr@gmail.com
