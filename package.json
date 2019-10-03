@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon --exec babel-node src/index.js --exec node-env-run",
+    "dev": "nodenv src/index.js --exec nodemon",
     "start": "babel-node src/index.js",
     "heroku-logs": "heroku logs -a transactions-manager-server -t"
   },
