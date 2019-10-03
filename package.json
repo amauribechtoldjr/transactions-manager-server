@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon --exec babel-node src/index.js --exec node-env-run"
+    "dev": "nodemon --exec babel-node src/index.js",
+    "start": "babel-node src/index.js"
   },
   "keywords": [],
   "author": "",
@@ -24,7 +25,6 @@
   },
   "devDependencies": {
     "cross-env": "^6.0.3",
-    "dotenv": "^8.1.0",
-    "node-env-run": "^3.0.2"
+    "dotenv": "^8.1.0"
   }
 }
