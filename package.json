@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon --exec babel-node src/index.js",
+    "dev": "nodemon --exec babel-node src/index.js --exec node-env-run",
     "start": "babel-node src/index.js",
     "heroku-logs": "heroku logs -a transactions-manager-server -t"
   },
@@ -23,6 +23,7 @@
     "express": "^4.17.1",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.7.1",
+    "node-env-run": "^3.0.2",
     "nodemon": "^1.19.2"
   },
   "devDependencies": {
