@@ -30,7 +30,9 @@ First we need to install our dependencies:
   yarn -i
 ```
 
-Then you need to create an .env file to set the environment variables, i have had put an example to follow in `.env.example`.
+Now we have to create an .env file to set the environment variables, you will need to have mongoDB installed locally or a database online (e.g https://cloud.mongodb.com/).
+
+I have had put an example to follow in `.env.example`.
 
 ### How to run
 
